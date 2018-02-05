@@ -1,0 +1,2 @@
+# programmering
+begynder programmering 
